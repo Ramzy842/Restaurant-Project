@@ -6,7 +6,7 @@ export default function menu(){
     const img1Div = document.createElement('div');
     img1Div.classList.add('img1');
     const img1 = document.createElement('img');
-    img1.src = '/img/menu/asgardian_pancakes.jpg'
+    img1.src = '/src/img/menu/asgardian_pancakes.jpg'
     const p1 = document.createElement('p');
     p1.innerText = "Asgardian Pancakes"
 
@@ -14,21 +14,21 @@ export default function menu(){
     const img2Div = document.createElement('div');
     img2Div.classList.add('img2');
     const img2 = document.createElement('img');
-    img2.src = '/img/menu/assemble_soup.jpg'
+    img2.src = '/src/img/menu/assemble_soup.jpg'
     const p2 = document.createElement('p');
     p2.innerText = "Assemble Soup"
 
     const img3Div = document.createElement('div');
     img3Div.classList.add('img3');
     const img3 = document.createElement('img');
-    img3.src = '/img/menu/titan_burger.jpg'
+    img3.src = '/src/img/menu/titan_burger.jpg'
     const p3 = document.createElement('p');
     p3.innerText = "Titan Burger"
 
     const img4Div = document.createElement('div');
     img4Div.classList.add('img4');
     const img4 = document.createElement('img');
-    img4.src = '/img/menu/earth_cookies.jpg'
+    img4.src = '/src/img/menu/earth_cookies.jpg'
     const p4 = document.createElement('p');
     p4.innerText = "Earth Cookies"
 
