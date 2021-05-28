@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url('/src/img/mcu.jpg');
+    background-image: url('/dist/img/mcu.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
